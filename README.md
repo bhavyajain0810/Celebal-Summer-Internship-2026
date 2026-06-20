@@ -4,18 +4,14 @@ This repository documents my learning, assignments, and project work completed d
 
 ## Assignments
 
-### Week 1 — Python, NumPy, Pandas, Linear Algebra and Statistics
+### [Week 1 — Python, NumPy, Pandas, Linear Algebra, Statistics and Probability](./Week-1)
 
-Topics covered:
+* Worked with Python, NumPy, Pandas, vectors, matrices, eigenvalues and eigenvectors
+* Covered descriptive statistics, hypothesis testing, probability distributions, Bayes’ theorem and the Central Limit Theorem
+* Applied stationarity testing, error metrics and model monitoring concepts
 
-* Python fundamentals
-* NumPy and Pandas
-* Vectors and matrices
-* Eigenvalues, eigenvectors and SVD
-* Descriptive and inferential statistics
-* Hypothesis testing
-* Error metrics
-* Distribution and stationarity testing
-* Model monitoring and PSI
-* Probability, Bayes' theorem and the Central Limit Theorem
+### [Week 2 — End-to-End Machine Learning Pipeline](./Week-2)
 
+* Performed data cleaning, EDA and feature engineering on Tesla production and deliveries data
+* Trained and evaluated Linear Regression and Random Forest models using chronological train-test split, cross-validation and GridSearchCV
+* Compared model performance, analysed feature importance, tested stationarity and prepared delivery forecasts
